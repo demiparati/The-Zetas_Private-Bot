@@ -71,7 +71,7 @@ npm start
 - Escribe los siguientes comandos en Termux:
 ```bash
 > cd 
-> cd TheMystic-Bot-MD
+> cd The-Zetas_Private-Bot
 > rm -rf MysticSession
 > npm start
 ```
