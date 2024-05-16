@@ -1,14 +1,13 @@
-# `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏` 
+# `The-Zetas_Private-Bot` 
 
 ------------------
-> **AVISO**: Yo "Bruno Sobrino", me he retirado de todo lo relacionado con el bot o temas similares, por lo que en algún momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los bots.
+> **AVISO**: Yo "Dozer Mx", me he retirado de todo lo relacionado con el bot o temas similares, por lo que en algún momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los bots.
 
-> TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
+> The-Zetas_Private-Bot pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
 ------------------
 
-<!-- Por colaborador: https://github.com/jeffersonalionco -->
-> Función de **idioma** oficialmente implementada en TheMystic-Bot-MD: **/lang**
-> ##### **𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏 - Idiomas Disponibles**
+> Función de **idioma** oficialmente implementada en The-Zetas_Private-Bot: **/lang**
+> ##### **The-Zetas_Private-Bot - Idiomas Disponibles**
 > - es - Español
 > - pt-br - Portugués
 > - en - Inglés
@@ -18,62 +17,12 @@
 
 ### `▢ CUENTAS OFICIALES`
 
-[ 🔗 ] https://www.atom.bio/theshadowbrokers-team
+[ 🔗 ] https://www.instagram.com/santinha_e_fabela?igsh=Ym9wcGV6bzZhNXZo
 
-### `▢ GRUPOS DE SOPORTE (NO DISPONIBLE)`
-
- <a href="https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(PORTUGU%C3%8AS)_(ATIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)_(NO_DISPONIBLE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(NOT AVAILABLE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-> [ ℹ️ ] En los grupos de soporte no se permiten bots.
-
- ### `▢ BOTS OFICIALES (INACTIVOS)`
-
-
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-### `▢ DONAR`
-- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
 
 ### `▢ PLUGINS`
 - Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
 
-### `▢ AJUSTES`
-- Clona el repositorio haciendo [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
-### `▢ ACTIVAR EN CAFIREXOS (ANTES ZIPPONODES)`
-<a href="https://www.cafirexos.com"><img src="https://r2.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
-- Sitio web: [www.cafirexos.com](https://www.cafirexos.com)
-- Dash: [dash.cafirexos.com](https://dash.cafirexos.com)
-- Panel: [panel.cafirexos.com](https://panel.cafirexos.com)
-- Documentación: [docs.cafirexos.com](https://docs.cafirexos.com)
-- Canal de WhatsApp: [clic aquí](https://cafirexos.com/whatsapp)
-
-### `▢ ACTIVAR EN BOXMINEHOST`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
-### `▢ ACTIVAR EN KOYEB`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot)
-  
-### `▢ ACTIVAR EN REPLIT`
-
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
-  
-### `▢ ACTIVAR EN RENDER`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD) 
 
 ### `▢ ACTIVAR EN TERMUX` 
 - Escribe los siguientes comandos en Termux:
