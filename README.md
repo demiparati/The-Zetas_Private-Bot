@@ -3,7 +3,7 @@
 ------------------
 > **AVISO**: Yo "Dozer Mx", me he retirado de todo lo relacionado con el bot o temas similares, por lo que en algún momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los bots.
 
-> The-Zetas_Private-Bot pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
+> The-Zetas_Private-Bot pasa a quedar en manos de colaboradores, y como principal representante Principe Azul Mods.
 ------------------
 
 > Función de **idioma** oficialmente implementada en The-Zetas_Private-Bot: **/lang**
